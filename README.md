@@ -69,4 +69,4 @@
 - bilibili: [@冬花ice](https://space.bilibili.com/295230912)
 
 ### 关于这张图片和头像
-出自Pixvic的一幅画作 66164593(https://pixvi.net/artworks/66164593)
+出自Pixvic的一幅画作 [66164593](https://pixvi.net/artworks/66164593)
