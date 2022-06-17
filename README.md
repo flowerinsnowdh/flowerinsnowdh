@@ -43,22 +43,6 @@
   - 纯自学，基础级别
   - 没什么好说的，写网站必备
 
-### 个人经历
-- [×] 我曾是**老Kar/Moci**的开发者，兼任Moderator。  
-- [×] **Danawa** Moderator。
-- [×] **BlackButterfly/TeaBane** 开发者
-- [√] [FlowerAIRadarQBot](https://www.yuque.com/donghuaice/pgazgx) (原**FlowerBot**)的作者和运行者。
-- [√] [flowerinsnow.online](https://www.flowerinsnow.online) 的唯一运营和开发
-- [√] **flowerinsnowplus**作者
-- [√] 我现在时不时还为**新Kar** / **YourCraft Java版Minecraft服务器**工作。
-- [√] 和我那些游戏朋友之间，我是他们的小帮手，服务器我提供，开发方面都是我来干。
-
-#### 上方信息的注意事项
-- **老Kar/Moci** 已停止运营，预计在**新Kar**重新运营。
-- **Danawa** 已停止运营，没有重新运营消息。
-- **BlackButterfly/TeaBane** 已停止运营，预计在2024年重新运营。
-- **flowerinsnowplus** 是我在MinecraftForge上的一个mod，属于私人mod，很多地方还不成熟，期待您的帮助！
-
 ### 和我取得联系
 * 我能力很有限，如果想要寻求我的帮助，请做好得到一句“对不起，我不会”的答复的心理准备。
 * 以下从上到下是推荐联系我的渠道的优先级，建议从上往下寻找联系我的方式  
