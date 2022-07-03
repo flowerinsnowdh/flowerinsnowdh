@@ -1,9 +1,9 @@
 ## 您好！我是 **冬花ice**
 这是我的常见用户名：[冬花ice, 冬花, flowerinsnow, flowerinsnowdh]  
-编程爱好者，还没有职业，甚至学习生涯都没有结束。出生于05年，大专生。
+编程爱好者，还没有职业，甚至学习生涯都没有结束。
 
 ### 个人简介
-坐标中国，江苏苏州，05年出生，男，未成年。  
+坐标中国，江苏苏州，男，未成年。  
 我是一个喜欢独自一人完成项目，没有任何人帮助的卑微萌新开发者，所以开发的东西效率都非常低。  
 我还有很多东西不懂，但我恨不得什么都会。  
 我的个人项目大部分闭源。
@@ -46,7 +46,7 @@
 ### 和我取得联系
 * 我能力很有限，如果想要寻求我的帮助，请做好得到一句“对不起，我不会”的答复的心理准备。
 * 以下从上到下是推荐联系我的渠道的优先级，建议从上往下寻找联系我的方式  
-- Email: [flowerimsnow@hotmail.com](email://flowerimsnow@hotmail.com)
+- Email: [flowerinsnow@donghua.email.cn](email://flowerinsnow@donghua.email.cn)
 - 个人QQ交流群: [153787112](https://jq.qq.com/?_wv=1027&k=I7DGU0fm)
 - 来 [GitHub Issues](https://github.com/flowerinsnowdh/flowerinsnowdh/issues) 反馈
 - QQ: 3184823291
