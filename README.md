@@ -6,6 +6,7 @@ I am a newbie who has not graduated from junior high school. I usually like to w
 To see my projects go [冬花的杂碎开源工具](https://github.com/flowerinsnow-lights-opensource).
 
 <hr />
+
 # 你好！
 我是冬花ice，编程作为我的兴趣，还没有彻底成为我的生活。到2024年15岁。喜欢安静但不害怕社交，是一位很好相处的“小蝴蝶”，希望自己什么都会到走火入魔，不管是文理、艺术、生活技能、方言还是编程都想学会，那怎么可能呢
 
