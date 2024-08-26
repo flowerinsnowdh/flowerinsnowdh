@@ -5,7 +5,7 @@ I am a newbie who has not graduated from junior high school. I usually like to w
 
 To see my projects go my repositories or [冬花的杂碎开源工具](https://github.com/flowerinsnow-lights-opensource).
 
-PGP Public Key: [F885D78F25CD59AE6D3FEAB5976CA342D0A0D2C0](https://keys.openpgp.org/search?q=F885D78F25CD59AE6D3FEAB5976CA342D0A0D2C0)
+PGP Public Key: [F885D78F25CD59AE6D3FEAB5976CA342D0A0D2C0](https://keys.openpgp.org/vks/v1/by-fingerprint/F885D78F25CD59AE6D3FEAB5976CA342D0A0D2C0)
 
 <hr />
 
